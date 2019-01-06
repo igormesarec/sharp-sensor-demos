@@ -5,7 +5,7 @@
 // There is also a detailed description how the sensor work and some background on dust sensing https://github.com/sharpsensoruser/sharp-sensor-demos/wiki
 //
 // Modification to the program by "Igor Mesarec" Jan 2018
-// igormesarec/sharp-sensor-demos
+// https://github.com/igormesarec/sharp-sensor-demos
 //
 // Connections on GP2Y1014
 // Pin 1 - starting from the pin closer to the sensor edge
